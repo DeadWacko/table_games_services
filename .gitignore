@@ -1,6 +1,11 @@
+# Byte-compiled
+__pycache__/
+
 # Local environment
 *.env
-*.venv
+.venv
+env/
+venv/
 
 # Databases
 *.sqlite3
